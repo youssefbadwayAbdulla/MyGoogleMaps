@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "541408454463",
+    "firebase_url": "https://fir-learn-80552-default-rtdb.firebaseio.com",
+    "project_id": "fir-learn-80552",
+    "storage_bucket": "fir-learn-80552.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541408454463:android:4b0a42f0e93120e903558a",
+        "android_client_info": {
+          "package_name": "com.example.learnfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541408454463-n8ci9m24isc3ls27fj45llajj6c4qf2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEYprJet4svkkAheB81KMGsSTELSin9lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541408454463-n8ci9m24isc3ls27fj45llajj6c4qf2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541408454463:android:6503f0a83e21e7cc03558a",
+        "android_client_info": {
+          "package_name": "com.example.mygooglemaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541408454463-n8ci9m24isc3ls27fj45llajj6c4qf2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEYprJet4svkkAheB81KMGsSTELSin9lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541408454463-n8ci9m24isc3ls27fj45llajj6c4qf2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
